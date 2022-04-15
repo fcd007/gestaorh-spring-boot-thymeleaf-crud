@@ -1,4 +1,4 @@
-# PProjeto Spring Boot Thymeleaf CRUD Database Real-Time JPA
+# Projeto Spring BootThymeleaf CRUD Database Real-Time JPA
 
 ## Descrição do projeto
 
